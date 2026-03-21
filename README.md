@@ -10,11 +10,6 @@ I build intelligent systems that combine **AI | Machine Learning | Power BI | Po
 
 # 🚀 About Me
 
-# 🧠 Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,git,github,vscode,mysql" />
-</p>
-
 ### Programming
 IBM Maximo | SAP MDM | Python | SQL 
 
