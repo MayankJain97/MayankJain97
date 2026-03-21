@@ -40,6 +40,8 @@ Git | GitHub | Jupyter Notebook | Power BI
 | [AI Intelligent Operations Agent](https://github.com/Praveen-Reddy74/Ai-Intelligent-Operations-Agent) | AI agent for operational analytics and workflow automation | Python, AI |
 | [Explainable RAG Framework](https://github.com/Praveen-Reddy74/Explainable-RAG-Framework) | Explainable retrieval-augmented generation system | Python, LLM, NLP |
 | [AI Intelligent Data Migration](https://github.com/Praveen-Reddy74/AI-Intelligent-Data-Migration) | AI assisted database migration and schema analysis | Python, ML |
+| [Explainable RAG Framework](https://github.com/Praveen-Reddy74/Explainable-RAG-Framework) | Explainable retrieval-augmented generation system | Python, LLM, NLP |
+| [AI Intelligent Data Migration](https://github.com/Praveen-Reddy74/AI-Intelligent-Data-Migration) | AI assisted database migration and schema analysis | Python, ML |
 
 ---
 
