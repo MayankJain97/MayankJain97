@@ -1,21 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Praveen%20Kumar%20Reddy&fontSize=40&fontColor=ffffff" />
 
-# Hi 👋 I'm Praveen Kumar
+# Hi 👋 I'm Mayank Jain
 
-**AI | Machine Learning | Quant Finance | Data Analytics**
+**AI | Machine Learning | Power BI | Portfolio**
 
-I build intelligent systems that combine **AI, machine learning, financial analytics, and data engineering** to solve real-world business and operational problems.
+I build intelligent systems that combine **AI | Machine Learning | Power BI | Porfolio** to solve real-world business and operational problems.
 
 ---
 
 # 🚀 About Me
-
-• Interested in **Quant Finance and Financial AI**  
-• Building **AI systems for analytics, operations, and enterprise automation**  
-• Experienced in **Machine Learning, RAG systems, and data analytics**  
-• Passionate about **AI applications in finance, operations, IT, and business intelligence**
-
----
 
 # 🧠 Tech Stack
 <p align="left">
@@ -23,13 +16,13 @@ I build intelligent systems that combine **AI, machine learning, financial analy
 </p>
 
 ### Programming
-Python | SQL
+IBM Maximo | SAP MDM | Python | SQL 
 
 ### Machine Learning
-Scikit-Learn | Classification | Regression | Explainable AI
+Classification | Regression | Explainable AI
 
 ### Data Analytics
-Pandas | NumPy | Matplotlib | Power BI
+Pandas | Power BI
 
 ### AI Systems
 RAG (Retrieval Augmented Generation) | LLM Applications | AI Agents
@@ -66,13 +59,9 @@ Git | GitHub | Jupyter Notebook | Power BI
 
 # 📫 Connect With Me
 
-LinkedIn  
-https://linkedin.com/in/praveen-kumar-reddy-2522036-glim/
+LinkedIn 
+https://www.linkedin.com/in/mayankjainibm/
 
 GitHub  
-https://github.com/Praveen-Reddy74
+https://github.com/MayankJain97
 
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Praveen-Reddy74/M-PRAVEEN-KUMAR/output/github-contribution-grid-snake.svg)
