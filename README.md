@@ -1,61 +1,78 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Praveen%20Kumar%20Reddy&fontSize=40&fontColor=ffffff" />
+
+# Hi 👋 I'm Praveen Kumar
+
+**AI | Machine Learning | Quant Finance | Data Analytics**
+
+I build intelligent systems that combine **AI, machine learning, financial analytics, and data engineering** to solve real-world business and operational problems.
+
+---
+
 # 🚀 About Me
-• Passionate about solving real problems with simple, scalable solutions  
-• Interested in Product Management, AI, and Data Analytics  
-• Building ML-driven solutions and business dashboards  
-• Strong focus on decision-making using data  
+
+• Interested in **Quant Finance and Financial AI**  
+• Building **AI systems for analytics, operations, and enterprise automation**  
+• Experienced in **Machine Learning, RAG systems, and data analytics**  
+• Passionate about **AI applications in finance, operations, IT, and business intelligence**
 
 ---
 
 # 🧠 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,git,github,vscode,mysql" />
+</p>
 
-## 💻 Programming
-Python | SQL  
+### Programming
+Python | SQL
 
-## 🤖 Machine Learning
-Scikit-Learn | Classification | Regression | Model Evaluation  
+### Machine Learning
+Scikit-Learn | Classification | Regression | Explainable AI
 
-## 📊 Data Analytics
-Pandas | NumPy | Matplotlib | Power BI  
+### Data Analytics
+Pandas | NumPy | Matplotlib | Power BI
 
-## 🧩 AI Systems
-RAG (Retrieval Augmented Generation) | LLM Applications | AI Agents  
+### AI Systems
+RAG (Retrieval Augmented Generation) | LLM Applications | AI Agents
 
-## 🛠️ Tools
-Git | GitHub | Jupyter Notebook | Power BI  
+### Tools
+Git | GitHub | Jupyter Notebook | Power BI
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 | Project | Description | Tech |
-|--------|------------|------|
-| Credit Card Churn Model | Predict customer churn using ML models and dashboard insights | Python, ML, Power BI |
-| EV Charging Network Optimization | Optimize EV charging placement using data analytics | Python, Optimization |
-| AI Operations Agent | AI agent for automating analytics workflows | Python, AI |
-| Explainable RAG System | Retrieval system with explainability for decision-making | Python, LLM |
+|-------|--------|------|
+| [AI Analytics Portfolio](https://github.com/Praveen-Reddy74/AI-Analytics-Portfolio) | Descriptive analytics, ML models, and Power BI dashboards | Python, ML, Power BI |
+| [AI Intelligent Operations Agent](https://github.com/Praveen-Reddy74/Ai-Intelligent-Operations-Agent) | AI agent for operational analytics and workflow automation | Python, AI |
+| [Explainable RAG Framework](https://github.com/Praveen-Reddy74/Explainable-RAG-Framework) | Explainable retrieval-augmented generation system | Python, LLM, NLP |
+| [AI Intelligent Data Migration](https://github.com/Praveen-Reddy74/AI-Intelligent-Data-Migration) | AI assisted database migration and schema analysis | Python, ML |
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-Reddy74&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Reddy74)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Reddy74&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-Reddy74&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Reddy74&layout=compact)
 
 ---
 
 # 📫 Connect With Me
 
-🔗 LinkedIn  
-https://linkedin.com/in/YOUR-LINK  
+LinkedIn  
+https://linkedin.com/in/praveen-kumar-reddy-2522036-glim/
 
-💻 GitHub  
-https://github.com/YOUR_USERNAME  
+GitHub  
+https://github.com/Praveen-Reddy74
 
----
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Praveen-Reddy74/M-PRAVEEN-KUMAR/output/github-contribution-grid-snake.svg)
