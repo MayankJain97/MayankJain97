@@ -45,15 +45,15 @@ Git | GitHub | Jupyter Notebook | Power BI
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-Reddy74&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayankJain9774&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Reddy74)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MayankJain97)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Reddy74&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankJain97&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-Reddy74&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayankJain97&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Reddy74&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankJain97&layout=compact)
 
 ---
 
