@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Praveen%20Kumar%20Reddy&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mayank%Jain&fontSize=40&fontColor=ffffff" />
 
 # Hi 👋 I'm Mayank Jain
 
