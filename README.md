@@ -44,8 +44,9 @@ https://business-user.training.celonis.cloud/package-manager/ui/views/ui/spaces
 | [IIM Bangalore Case Celonis Finalist](https://github.com/MayankJain97/IIM-Bangalore-Case) | Process analysis and optimization using data-driven approach | Python, LLM |
 | [Tiger Analytics Case Architecture](https://github.com/MayankJain97/Tiger-Analytics-Case---Arch) | Scalable data architecture for analytics and workflow automation | Python,Cloud Architecture (AWS/Azure concepts) |
 | [Tiger Analytics Case Pricing](https://github.com/MayankJain97/Tiger-Analytics-Case---Pricing) | Data-driven pricing optimization using ML models | Python, Pandas |
+| [IRMA Case Competerion](https://github.com/MayankJain97/IRMA-Case-Study-Case-Comp) | Business On Value | Decision Making, PPT |
 
-https://portfolionew-6xfprndsbkxpzxwtsvyzyb.streamlit.app/
+[https://portfolionew-6xfprndsbkxpzxwtsvyzyb.streamlit.app/](https://github.com/MayankJain97/IRMA-Case-Study-Case-Comp)
 
 ---
 
