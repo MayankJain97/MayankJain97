@@ -39,12 +39,13 @@ https://business-user.training.celonis.cloud/package-manager/ui/views/ui/spaces
 | [Credit Card Churn Analytics](https://github.com/MayankJain97/credit-card-churn-prediction) | ML model to predict customer churn with explainable insights | Python, LLM |
 | [IT Spend Analysis_BI Dashboard](https://github.com/MayankJain97/IT_Spend_Analysis_BI-Dashboard) | Interactive dashboards for business insights and KPI tracking | Power BI |
 | [IIM Bangalore Case Celonis Finalist](https://github.com/MayankJain97/IIM-Bangalore-Case) | Process analysis and optimization using data-driven approach | Python, LLM |
+| [Personal Portfolio Website](https://portfolionew-6xfprndsbkxpzxwtsvyzyb.streamlit.app/) | Personal Shareable Porfoilio | Python, LLM |
+| [IIM Bangalore Case Celonis Finalist](https://github.com/MayankJain97/IIM-Bangalore-Case) | Process analysis and optimization using data-driven approach | Python, LLM |
 | [Tiger Analytics Case Architecture](https://github.com/MayankJain97/Tiger-Analytics-Case---Arch) | Scalable data architecture for analytics and workflow automation | Python,Cloud Architecture (AWS/Azure concepts) |
 | [Tiger Analytics Case Pricing](https://github.com/MayankJain97/Tiger-Analytics-Case---Pricing) | Data-driven pricing optimization using ML models | Python, Pandas |
-| [IIM Bangalore Case Celonis Finalist](https://github.com/MayankJain97/IIM-Bangalore-Case) | Process analysis and optimization using data-driven approach | Python, LLM |
- 
 
-https://github.com/MayankJain97/IT_Spend_Analysis_BI-Dashboard
+https://portfolionew-6xfprndsbkxpzxwtsvyzyb.streamlit.app/
+
 ---
 
 
